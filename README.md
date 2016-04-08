@@ -1,6 +1,6 @@
 # Crystal Peeks
 Visualisation de la croissance des crystaux de type PEEKS, sur une idée 
-originale de X. Tardiff avec le logiciel Matlab.
+originale de X. Tardif avec le logiciel Matlab.
 
 ![10 crystaux](assets/crystals_n10.png)
 
