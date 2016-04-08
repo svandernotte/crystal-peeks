@@ -18,7 +18,7 @@ for i=1:nc,
     crystals(i) = Crystal(  'position', 5*(2.*rand(2,1)-1), ...
                             'radius_init', .001) ; %#ok
                         
-   crystals(i).plot('color', rand(1,3)) ;
+   crystals(i).plot('color', rand(1,3), 'linewidth', 2) ;
 
 end ;
 
