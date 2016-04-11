@@ -4,9 +4,35 @@ originale de X. Tardiff avec le logiciel Matlab.
 
 ![10 crystaux](assets/crystals_n10.png)
 
-## Lancement
+## Programme
 
-Dans Matlab, se placer dans le répertoire du projet puis executer `crystal_main.m`.
+### Aide et description du programme
+
+Se placer dans le répertoire du projet. Puis exécutez
+```
+help crystal_main
+help Crystal
+```
+
+### Lancement script de test
+
+Se placer dans le répertoire du projet. Puis exécutez 
+```
+crystal_main.m
+```
+
+## License BEERWARE
+
+« LICENCE BEERWARE » (Révision 42):
+Sylvain Vandernotte <svandernott@yahoo.fr> a créé ce fichier le 20160408.
+Tant que vous conservez cet avertissement,vous pouvez faire ce que vous
+voulez de ce truc. Si on se rencontre un jour et que vous pensez que ce
+truc vaut le coup, vous pouvez me payer une bière en retour. 
+Sylvain Vandernotte 
+
+Note : la license s'applique seulement pour les fichiers suivants : 
+- crystal_main
+- @Crystal/*
 
 ___
 Sylvain Vandernotte, 20160408
