@@ -1,4 +1,8 @@
-# Crystal Peeks
+# Crystal Peeks (archivé) 
+
+> Edit 20201127 : ce projet est maintenant archivé. 
+> Me contacter si vous souhaitez le réactiver.
+
 Visualisation de la croissance des crystaux de type PEEKS, sur une idée 
 originale de X. Tardif avec le logiciel Matlab.
 
